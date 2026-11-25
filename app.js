@@ -266,6 +266,15 @@ function plural(n, forms) {
   return forms[2];
 }
 
+function cardMediaHtml(product, cat) {
+  if (product.image) {
+    return `<div class="card-media has-photo" aria-hidden="true">
+      <img src="${esc(product.image)}" alt="" width="800" height="600" loading="lazy" decoding="async">
+    </div>`;
+  }
+  return `<div class="card-media" aria-hidden="true">${icon(cat.id, "icon card-icon")}</div>`;
+}
+
 function productCardHtml(product) {
   const seller = sellerOf(product);
   const cat = categoryOf(product);
@@ -273,7 +282,7 @@ function productCardHtml(product) {
 
   return `
     <a class="product-card" href="${href}" style="--seller-color:${esc(seller?.color || "#f3ede5")}">
-      <div class="card-media" aria-hidden="true">${icon(cat.id, "icon card-icon")}</div>
+      ${cardMediaHtml(product, cat)}
       <div class="card-body">
         <span class="seller-line">${esc(seller?.name || "Продавец")}</span>
         <h3>${esc(product.name)}</h3>
@@ -389,7 +398,7 @@ function orderCardHtml(product, seller) {
 
   return `
     <div class="product-card order-card" data-product="${esc(product.id)}" style="--seller-color:${esc(seller.color || "#f3ede5")}">
-      <div class="card-media" aria-hidden="true">${icon(cat.id, "icon card-icon")}</div>
+      ${cardMediaHtml(product, cat)}
       <div class="card-body">
         <span class="seller-line">${esc(cat.label)}</span>
         <h3>${esc(product.name)}</h3>

@@ -99,6 +99,12 @@ def parse_file(path: Path):
             if desc_el is not None:
                 media += " | " + desc_el.get_text(" ", strip=True)
 
+        photos = []
+        for photo_el in body.select("a.photo_wrap"):
+            href = photo_el.get("href", "")
+            if href and href not in photos:
+                photos.append(href)
+
         preview = body.select_one(".link_preview")
         preview_data = None
         if preview is not None:
@@ -129,6 +135,7 @@ def parse_file(path: Path):
             "text": text,
             "links": links,
             "media": media,
+            "photos": photos,
             "preview": preview_data,
             "forwarded_from": forwarded_from,
             "reply_to": reply_to,

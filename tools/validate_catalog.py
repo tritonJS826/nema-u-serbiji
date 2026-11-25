@@ -6,6 +6,7 @@ Checks:
   * every product points to an existing seller and category;
   * no duplicate product per (seller_id, normalized name);
   * price/price_unknown consistency;
+  * product images are existing .avif files;
   * required fields and URL shapes.
 
 Usage:
@@ -18,6 +19,7 @@ from collections import Counter
 from pathlib import Path
 
 URL_RE = re.compile(r"^https://t\.me/[A-Za-z0-9_+/%.-]+$")
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def norm_name(value: str) -> str:
@@ -96,6 +98,13 @@ def main() -> int:
         url = product.get("source_message_url")
         if url and not URL_RE.match(url):
             fail(errors, f"product {pid!r}: bad source_message_url: {url!r}")
+
+        image = product.get("image")
+        if image:
+            if not isinstance(image, str) or not image.lower().endswith(".avif"):
+                fail(errors, f"product {pid!r}: image must be an .avif path: {image!r}")
+            elif not (ROOT / image).is_file():
+                fail(errors, f"product {pid!r}: image file not found: {image!r}")
 
     return report(errors, len(data["sellers"]), len(data["products"]))
 
