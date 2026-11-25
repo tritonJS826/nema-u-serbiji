@@ -1,0 +1,2342 @@
+{
+  "updated_at": "2026-11-25",
+  "source": {
+    "chat_title": "Русскоговорящий Ниш Сербия",
+    "chat_url": "https://t.me/rus_nis",
+    "export": "ChatExport_2026-11-25",
+    "period_from": "2025-11-25",
+    "period_to": "2026-11-25"
+  },
+  "categories": [
+    {
+      "id": "fish",
+      "label": "Рыба и морепродукты",
+      "emoji": "🐟"
+    },
+    {
+      "id": "meat",
+      "label": "Мясо, сало, колбасы",
+      "emoji": "🥩"
+    },
+    {
+      "id": "ready",
+      "label": "Готовая еда",
+      "emoji": "🍲"
+    },
+    {
+      "id": "dumplings",
+      "label": "Пельмени и вареники",
+      "emoji": "🥟"
+    },
+    {
+      "id": "bakery",
+      "label": "Выпечка и десерты",
+      "emoji": "🍰"
+    },
+    {
+      "id": "preserves",
+      "label": "Заготовки и соусы",
+      "emoji": "🫙"
+    },
+    {
+      "id": "dairy",
+      "label": "Молочное",
+      "emoji": "🥛"
+    },
+    {
+      "id": "honey",
+      "label": "Мёд и варенье",
+      "emoji": "🍯"
+    },
+    {
+      "id": "pantry",
+      "label": "Автоклав и консервы",
+      "emoji": "🥫"
+    },
+    {
+      "id": "tea",
+      "label": "Травяные чаи",
+      "emoji": "🌿"
+    }
+  ],
+  "sellers": [
+    {
+      "id": "kulinarija-nis",
+      "name": "Кулинария Ниш",
+      "person": "Александра",
+      "emoji": "🐟",
+      "color": "#e8f0ea",
+      "tg_kind": "group",
+      "tg_handle": "kulinarija_nis",
+      "tg_url": "https://t.me/kulinarija_nis",
+      "place": "Ниш · выдача у главной почты",
+      "about": "Малосольная рыба, паштет, холодец, торты и домашние десерты. Заказы принимает в группе, выдача — в центре Ниша.",
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "radeco",
+      "name": "RADECO",
+      "person": "Юлия Радулович",
+      "emoji": "🥟",
+      "color": "#f7eadf",
+      "tg_kind": "group",
+      "tg_handle": "radeco_homefood",
+      "tg_url": "https://t.me/radeco_homefood",
+      "place": "Ниш · доставка партиями",
+      "about": "Домашние пельмени, вареники, котлеты и сырники, корейские салаты, каши и заготовки из автоклава. Актуальный прайс — в группе.",
+      "source_message_url": "https://t.me/rus_nis/190110",
+      "updated_at": "2026-11-19"
+    },
+    {
+      "id": "gsm-nis",
+      "name": "Гараж старог мајстора",
+      "person": "Demas",
+      "emoji": "🍲",
+      "color": "#f4ece1",
+      "tg_kind": "group",
+      "tg_handle": "GSM_Nis",
+      "tg_url": "https://t.me/GSM_Nis",
+      "place": "Йована Ристича 2а, Ниш",
+      "about": "Готовая домашняя еда на вынос и на заказ: фаршированные перцы, тефтели, солянка, пельмени, вареники, салаты. Появилась доставка по городу — 300 RSD.",
+      "source_message_url": "https://t.me/rus_nis/190500",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "jelenasezina",
+      "name": "Елена Сезина · заготовки",
+      "person": "Елена Сезина",
+      "emoji": "🫙",
+      "color": "#eef0e4",
+      "tg_kind": "user",
+      "tg_handle": "jelenasezina",
+      "tg_url": "https://t.me/jelenasezina",
+      "place": "Ниш · доставка партиями",
+      "about": "Домашние варенья, маринованные грибы, овощные заготовки, блины и фиточаи. Привозит заказы в Ниш по предзаказу.",
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "andrey-sv98",
+      "name": "Андрей · домашний творог",
+      "person": "Андрей Серов",
+      "emoji": "🥛",
+      "color": "#eaf1f4",
+      "tg_kind": "user",
+      "tg_handle": "andrey_sv98",
+      "tg_url": "https://t.me/andrey_sv98",
+      "place": "Ниш · доставка 13:00–20:00",
+      "about": "Домашний творог порциями по 500 г, доставка по Нишу. Также доставляет еду из «Гаража старог мајстора».",
+      "source_message_url": "https://t.me/rus_nis/190005",
+      "updated_at": "2026-11-17"
+    },
+    {
+      "id": "ksenia",
+      "name": "Ксения · домашняя еда",
+      "person": "Ксения",
+      "emoji": "🥗",
+      "color": "#f1eee5",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/174978",
+      "place": "Ниш · встреча в центре",
+      "about": "Окрошка, свекольник, винегрет, квашеная капуста, морковь по-корейски и масло гхи. Готовит только по предзаказу.",
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "olga",
+      "name": "Ольга · торты и капуста",
+      "person": "Ольга",
+      "emoji": "🎂",
+      "color": "#f8ecea",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/171421",
+      "place": "Ниш · самовывоз",
+      "about": "Домашние торты «Наполеон» и «Красный бархат», квашеная капуста. Публичного контакта нет — писать через чат.",
+      "source_message_url": "https://t.me/rus_nis/171421",
+      "updated_at": "2026-05-08"
+    },
+    {
+      "id": "vlada",
+      "name": "vlada · домашние пельмени",
+      "person": "vlada",
+      "emoji": "🥟",
+      "color": "#f5eee6",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/190498",
+      "place": "Ниш · по договорённости",
+      "about": "Пельмени ручной работы из свинины и говядины, вареники на заказ. Публичного контакта нет — писать через чат.",
+      "source_message_url": "https://t.me/rus_nis/190498",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "vobla",
+      "name": "Вобла Сербия",
+      "person": "Саша из Перлеза",
+      "emoji": "🐠",
+      "color": "#e9f0ec",
+      "tg_kind": "user",
+      "tg_handle": "vobla_perlez",
+      "tg_url": "https://t.me/vobla_perlez",
+      "place": "Перлез · доставка по Сербии",
+      "about": "Сами солят и вялят рыбу, отправляют курьерской службой по всей Сербии. Есть канал с ассортиментом: @vobla_serbia.",
+      "source_message_url": "https://t.me/rus_nis/172168",
+      "updated_at": "2026-05-17"
+    },
+    {
+      "id": "nikolai",
+      "name": "Николай · инжирное варенье",
+      "person": "Николай",
+      "emoji": "🍯",
+      "color": "#f3eede",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/180839",
+      "place": "Ниш · по договорённости",
+      "about": "Домашнее инжирное варенье, банка 670 мл. Публичного контакта нет — писать через чат.",
+      "source_message_url": "https://t.me/rus_nis/180839",
+      "updated_at": "2026-09-06"
+    },
+    {
+      "id": "maltseva",
+      "name": "Юлия Мальцева · сгущёнка",
+      "person": "Юлия Мальцева",
+      "emoji": "🥛",
+      "color": "#f2eee7",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/169532",
+      "place": "Ниш · доставка партиями",
+      "about": "Домашнее сгущённое молоко из цельного коровьего молока. Заказы партиями с доставкой в Ниш.",
+      "source_message_url": "https://t.me/rus_nis/169532",
+      "updated_at": "2026-04-09"
+    },
+    {
+      "id": "e-pelmeni",
+      "name": "E · пельмени и орешки",
+      "person": "E",
+      "emoji": "🥟",
+      "color": "#f6efe8",
+      "tg_kind": "message",
+      "tg_handle": null,
+      "tg_url": "https://t.me/rus_nis/169186",
+      "place": "Ниш · по договорённости",
+      "about": "Домашние пельмени двух видов и орешки со сгущёнкой. Публичного контакта нет — писать через чат.",
+      "source_message_url": "https://t.me/rus_nis/169186",
+      "updated_at": "2026-04-04"
+    }
+  ],
+  "products": [
+    {
+      "id": "kulinarija-herring-whole",
+      "seller_id": "kulinarija-nis",
+      "name": "Сельдь малосольная целая",
+      "category": "fish",
+      "description": "Целая малосольная сельдь, неразделанная. Выдача в центре Ниша по предзаказу.",
+      "price": 370,
+      "unit": "шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сельдь",
+        "селёдка",
+        "рыба",
+        "малосольная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-herring-fillet",
+      "seller_id": "kulinarija-nis",
+      "name": "Сельдь филе с луком в масле",
+      "category": "fish",
+      "description": "Два филе сельди с луком в масле, в боксе.",
+      "price": 550,
+      "unit": "бокс (2 филе)",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сельдь",
+        "филе",
+        "рыба",
+        "масло"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-mackerel",
+      "seller_id": "kulinarija-nis",
+      "name": "Скумбрия кусочками в масле",
+      "category": "fish",
+      "description": "Кусочки скумбрии в масле с луком и специями. Бокс 500–550 г.",
+      "price": 900,
+      "unit": "бокс 500–550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "скумбрия",
+        "рыба",
+        "маринованная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-kilka",
+      "seller_id": "kulinarija-nis",
+      "name": "Килька малосольная в масле",
+      "category": "fish",
+      "description": "Малосольная килька в масле с луком и специями.",
+      "price": 400,
+      "unit": "бокс",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "килька",
+        "рыба",
+        "малосольная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-trout",
+      "seller_id": "kulinarija-nis",
+      "name": "Филе радужной форели слабосолёное",
+      "category": "fish",
+      "description": "Слабосолёное филе форели на бутерброды. Цена за 100 г; целое филе — 650–800 RSD.",
+      "price": 370,
+      "unit": "100 г",
+      "price_note": "целое филе — 650–800 RSD",
+      "price_unknown": false,
+      "tags": [
+        "форель",
+        "рыба",
+        "слабосолёная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-mussels",
+      "seller_id": "kulinarija-nis",
+      "name": "Маринованные мидии в ароматном масле",
+      "category": "fish",
+      "description": "Мидии в масле со специями. Малый бокс 300–320 г — 850 RSD, большой 600–640 г — 1600 RSD.",
+      "price": 850,
+      "unit": "бокс 300–320 г",
+      "price_note": "бокс 600–640 г — 1600 RSD",
+      "price_unknown": false,
+      "tags": [
+        "мидии",
+        "морепродукты",
+        "маринованные"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-pate",
+      "seller_id": "kulinarija-nis",
+      "name": "Паштет печёночный сливочный",
+      "category": "meat",
+      "description": "Домашний сливочный печёночный паштет, бокс 200 г.",
+      "price": 550,
+      "unit": "бокс 200 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "паштет",
+        "печень",
+        "закуска"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190467",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "kulinarija-kholodets",
+      "seller_id": "kulinarija-nis",
+      "name": "Холодец домашний свинина-курица",
+      "category": "meat",
+      "description": "Домашний холодец из свинины и курицы, порция около 700 г.",
+      "price": 1000,
+      "unit": "порция ~700 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "холодец",
+        "студень",
+        "свинина",
+        "курица"
+      ],
+      "source_message_url": "https://t.me/rus_nis/187363",
+      "updated_at": "2026-10-29"
+    },
+    {
+      "id": "kulinarija-olivier",
+      "seller_id": "kulinarija-nis",
+      "name": "Салат «Оливье» с колбасой",
+      "category": "ready",
+      "description": "Домашний оливье с колбасой и домашним майонезом. Лук — по желанию. Заказ от 1 кг.",
+      "price": 220,
+      "unit": "100 г",
+      "price_note": "заказ от 1 кг",
+      "price_unknown": false,
+      "tags": [
+        "оливье",
+        "салат",
+        "майонез"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174623",
+      "updated_at": "2026-06-20"
+    },
+    {
+      "id": "kulinarija-herring-under-fur",
+      "seller_id": "kulinarija-nis",
+      "name": "Сельдь под шубой",
+      "category": "ready",
+      "description": "Слоёный салат с филе сельди, овощами, яйцом и домашним майонезом. Фасовка 0,5 или 1 кг.",
+      "price": 2500,
+      "unit": "кг",
+      "price_note": "сезонное предложение",
+      "price_unknown": false,
+      "tags": [
+        "сельдь под шубой",
+        "салат",
+        "праздник"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167806",
+      "updated_at": "2026-03-04"
+    },
+    {
+      "id": "kulinarija-napoleon",
+      "seller_id": "kulinarija-nis",
+      "name": "Торт «Наполеон»",
+      "category": "bakery",
+      "description": "Пропитанный торт с заварным кремом на желтках, слоёное домашнее тесто на сливочном масле. Без маргарина.",
+      "price": 2600,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "наполеон",
+        "торт",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/176623",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kulinarija-meringue-roll",
+      "seller_id": "kulinarija-nis",
+      "name": "Меренговый рулет",
+      "category": "bakery",
+      "description": "Безглютеновый десерт с кремом из творожного сыра и сливок, домашним клубничным конфитюром и свежими фруктами. Половина 0,5–0,6 кг.",
+      "price": 1300,
+      "unit": "половина 0,5–0,6 кг",
+      "price_note": "обе половины — 2500 RSD",
+      "price_unknown": false,
+      "tags": [
+        "рулет",
+        "меренга",
+        "безглютеновый",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/180360",
+      "updated_at": "2026-09-02"
+    },
+    {
+      "id": "kulinarija-cupcakes",
+      "seller_id": "kulinarija-nis",
+      "name": "Капкейки, набор 6 шт",
+      "category": "bakery",
+      "description": "Бисквитные капкейки с крем-чизом, ягодной начинкой и свежими ягодами. Варианты: шоколадные, ванильные, «Красный бархат».",
+      "price": 1800,
+      "unit": "набор 6 шт",
+      "price_note": "акционные наборы бывают дешевле",
+      "price_unknown": false,
+      "tags": [
+        "капкейки",
+        "кексы",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/166536",
+      "updated_at": "2026-02-09"
+    },
+    {
+      "id": "kulinarija-red-velvet-cupcakes",
+      "seller_id": "kulinarija-nis",
+      "name": "Капкейки «Красный бархат», 6 шт",
+      "category": "bakery",
+      "description": "Капкейки с клубничной начинкой, крем-чизом и клубникой сверху.",
+      "price": 1500,
+      "unit": "набор 6 шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "красный бархат",
+        "капкейки",
+        "клубника"
+      ],
+      "source_message_url": "https://t.me/rus_nis/168482",
+      "updated_at": "2026-03-20"
+    },
+    {
+      "id": "kulinarija-zefir",
+      "seller_id": "kulinarija-nis",
+      "name": "Домашний зефир",
+      "category": "bakery",
+      "description": "Зефир на основе свежего пюре. Коробка из 12 половинок; вкусы меняются — вишня, банан, клубника.",
+      "price": 900,
+      "unit": "коробка 12 половин",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "зефир",
+        "сладости",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189840",
+      "updated_at": "2026-11-15"
+    },
+    {
+      "id": "kulinarija-bezé",
+      "seller_id": "kulinarija-nis",
+      "name": "Безе и меренга",
+      "category": "bakery",
+      "description": "Безе в виде завитков и восьмёрок, можно собрать букет. Завиток — 130 RSD, восьмёрка — 150 RSD.",
+      "price": 130,
+      "unit": "шт",
+      "price_note": "букет из безе — 500–750 RSD",
+      "price_unknown": false,
+      "tags": [
+        "безе",
+        "меренга",
+        "сладости"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167799",
+      "updated_at": "2026-03-04"
+    },
+    {
+      "id": "kulinarija-easter-cakes",
+      "seller_id": "kulinarija-nis",
+      "name": "Пасхальные мини-куличи",
+      "category": "bakery",
+      "description": "Кексы с изюмом и клюквой, глазурь на желатине, индивидуальная упаковка с лентой. Сезонное предложение.",
+      "price": 230,
+      "unit": "шт",
+      "price_note": "сезонное предложение",
+      "price_unknown": false,
+      "tags": [
+        "кулич",
+        "пасха",
+        "кекс"
+      ],
+      "source_message_url": "https://t.me/rus_nis/168897",
+      "updated_at": "2026-03-30"
+    },
+    {
+      "id": "kulinarija-gingerbread",
+      "seller_id": "kulinarija-nis",
+      "name": "Имбирно-медовые пряники",
+      "category": "bakery",
+      "description": "Ручная роспись глазурью: зайчики, уточки, яички, сердечки. На шпажке — как топпер для кулича. Сезонное предложение.",
+      "price": 100,
+      "unit": "шт",
+      "price_note": "на шпажке, как топпер для кулича",
+      "price_unknown": false,
+      "tags": [
+        "пряники",
+        "пасха",
+        "имбирь",
+        "мёд"
+      ],
+      "source_message_url": "https://t.me/rus_nis/169570",
+      "updated_at": "2026-04-10"
+    },
+    {
+      "id": "kulinarija-strawberry-chocolate",
+      "seller_id": "kulinarija-nis",
+      "name": "Клубника в шоколаде",
+      "category": "bakery",
+      "description": "Свежая клубника в белом или молочном шоколаде, коробка.",
+      "price": 800,
+      "unit": "коробка",
+      "price_note": "в наличии — 700 RSD",
+      "price_unknown": false,
+      "tags": [
+        "клубника",
+        "шоколад",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/168993",
+      "updated_at": "2026-04-01"
+    },
+    {
+      "id": "kulinarija-strawberry-jam",
+      "seller_id": "kulinarija-nis",
+      "name": "Клубничный конфитюр",
+      "category": "preserves",
+      "description": "Домашний клубничный конфитюр. Банка 380 мл — 400 RSD, банка 0,7 л — 700 RSD.",
+      "price": 400,
+      "unit": "380 мл",
+      "price_note": "0,7 л — 700 RSD",
+      "price_unknown": false,
+      "tags": [
+        "конфитюр",
+        "клубника",
+        "варенье"
+      ],
+      "source_message_url": "https://t.me/rus_nis/172353",
+      "updated_at": "2026-05-22"
+    },
+    {
+      "id": "radeco-dumplings",
+      "seller_id": "radeco",
+      "name": "Пельмени домашние",
+      "category": "dumplings",
+      "description": "Домашние пельмени ручной лепки. Актуальный состав и цена — в группе RADECO.",
+      "price": null,
+      "unit": "кг",
+      "price_note": "цену уточняйте в группе",
+      "price_unknown": true,
+      "tags": [
+        "пельмени",
+        "заморозка",
+        "ручная лепка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190110",
+      "updated_at": "2026-11-19"
+    },
+    {
+      "id": "radeco-vareniki",
+      "seller_id": "radeco",
+      "name": "Вареники домашние",
+      "category": "dumplings",
+      "description": "Домашние вареники, состав и цена — в группе RADECO.",
+      "price": null,
+      "unit": "кг",
+      "price_note": "цену уточняйте в группе",
+      "price_unknown": true,
+      "tags": [
+        "вареники",
+        "заморозка",
+        "ручная лепка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190110",
+      "updated_at": "2026-11-19"
+    },
+    {
+      "id": "radeco-cutlets",
+      "seller_id": "radeco",
+      "name": "Котлеты любительские",
+      "category": "meat",
+      "description": "Домашние котлеты, 20 шт. Цена за набор; количество в наборе уточняйте.",
+      "price": 650,
+      "unit": "20 шт",
+      "price_note": "10 шт — цену уточняйте",
+      "price_unknown": false,
+      "tags": [
+        "котлеты",
+        "мясо",
+        "полуфабрикат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167388",
+      "updated_at": "2026-02-22"
+    },
+    {
+      "id": "radeco-syrniki",
+      "seller_id": "radeco",
+      "name": "Сырники с изюмом",
+      "category": "dairy",
+      "description": "Домашние сырники с изюмом, набор из 10 шт.",
+      "price": 450,
+      "unit": "10 шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сырники",
+        "творог",
+        "изюм"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167388",
+      "updated_at": "2026-02-22"
+    },
+    {
+      "id": "radeco-carrot",
+      "seller_id": "radeco",
+      "name": "Морковь по-корейски",
+      "category": "ready",
+      "description": "Корейский салат из моркови. Цена за килограмм.",
+      "price": 700,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "морковь",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-asparagus",
+      "seller_id": "radeco",
+      "name": "Спаржа по-корейски",
+      "category": "ready",
+      "description": "Корейский салат из спаржи. Цена за килограмм.",
+      "price": 1600,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "спаржа",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-mushrooms",
+      "seller_id": "radeco",
+      "name": "Шампиньоны по-корейски",
+      "category": "ready",
+      "description": "Корейский салат из шампиньонов. Цена за килограмм.",
+      "price": 1600,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "шампиньоны",
+        "грибы",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-kimchi",
+      "seller_id": "radeco",
+      "name": "Кимчи",
+      "category": "ready",
+      "description": "Домашняя кимчи. Цена за килограмм.",
+      "price": 1300,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "кимчи",
+        "капуста",
+        "корейская"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-funchoza",
+      "seller_id": "radeco",
+      "name": "Фунчоза по-корейски",
+      "category": "ready",
+      "description": "Салат из стеклянной лапши с овощами. Цена за килограмм.",
+      "price": 1000,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "фунчоза",
+        "лапша",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-he-fish",
+      "seller_id": "radeco",
+      "name": "Хе из рыбы",
+      "category": "fish",
+      "description": "Корейская закуска хе из рыбы. Цена за килограмм.",
+      "price": 2300,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "хе",
+        "рыба",
+        "корейская",
+        "острая"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-he-tongue",
+      "seller_id": "radeco",
+      "name": "Хе из говяжьего языка",
+      "category": "meat",
+      "description": "Корейская закуска хе из говяжьего языка. Цена за килограмм.",
+      "price": 2300,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "хе",
+        "язык",
+        "говядина",
+        "корейская"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-seaweed",
+      "seller_id": "radeco",
+      "name": "Морская капуста в корейской заправке",
+      "category": "ready",
+      "description": "Салат из морской капусты. Цена за килограмм.",
+      "price": 1200,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "морская капуста",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-daikon",
+      "seller_id": "radeco",
+      "name": "Дайкон по-корейски",
+      "category": "ready",
+      "description": "Корейский салат из дайкона (редиса). Цена за килограмм.",
+      "price": 1200,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "дайкон",
+        "редис",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-mackerel-hot",
+      "seller_id": "radeco",
+      "name": "Скумбрия горячего копчения",
+      "category": "fish",
+      "description": "Свежая скумбрия горячего копчения, потрошёная, около 300 г.",
+      "price": 920,
+      "unit": "шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "скумбрия",
+        "рыба",
+        "копчёная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167388",
+      "updated_at": "2026-02-22"
+    },
+    {
+      "id": "radeco-mackerel-cold",
+      "seller_id": "radeco",
+      "name": "Скумбрия холодного копчения",
+      "category": "fish",
+      "description": "Свежая скумбрия холодного копчения, потрошёная, около 300 г.",
+      "price": 1140,
+      "unit": "шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "скумбрия",
+        "рыба",
+        "копчёная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167388",
+      "updated_at": "2026-02-22"
+    },
+    {
+      "id": "radeco-bream",
+      "seller_id": "radeco",
+      "name": "Вяленый лещ",
+      "category": "fish",
+      "description": "Сушёный вяленый лещ. Цена за килограмм.",
+      "price": 1700,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "лещ",
+        "рыба",
+        "вяленая"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-salo",
+      "seller_id": "radeco",
+      "name": "Сало солёное сухого посола",
+      "category": "meat",
+      "description": "Классическое сало с чесноком, чёрным перцем и укропом. Цена за килограмм.",
+      "price": 1700,
+      "unit": "кг",
+      "price_note": "последняя известная цена — декабрь 2025",
+      "price_unknown": false,
+      "tags": [
+        "сало",
+        "чеснок",
+        "солёное"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-borodinsky",
+      "seller_id": "radeco",
+      "name": "Хлеб бородинский",
+      "category": "bakery",
+      "description": "Домашний бородинский хлеб, булка.",
+      "price": 450,
+      "unit": "булка",
+      "price_note": "последняя известная цена — декабрь 2025",
+      "price_unknown": false,
+      "tags": [
+        "хлеб",
+        "бородинский",
+        "ржаной"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-darnitsky",
+      "seller_id": "radeco",
+      "name": "Хлеб дарницкий",
+      "category": "bakery",
+      "description": "Домашний дарницкий хлеб, булка.",
+      "price": 450,
+      "unit": "булка",
+      "price_note": "последняя известная цена — декабрь 2025",
+      "price_unknown": false,
+      "tags": [
+        "хлеб",
+        "дарницкий",
+        "ржаной"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164171",
+      "updated_at": "2025-12-16"
+    },
+    {
+      "id": "radeco-porridge",
+      "seller_id": "radeco",
+      "name": "Каша с мясом из автоклава",
+      "category": "pantry",
+      "description": "Готовая каша с мясом в банке 550 г. Варианты: рис, гречка, горох, перловка, фасоль, картофель. Хранится без холодильника.",
+      "price": 650,
+      "unit": "банка 550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "каша",
+        "мясо",
+        "автоклав",
+        "консервы"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-chicken-stew",
+      "seller_id": "radeco",
+      "name": "Тушёнка куриная",
+      "category": "pantry",
+      "description": "Курица в собственном соку, автоклав, банка 550 г.",
+      "price": 750,
+      "unit": "банка 550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "тушёнка",
+        "курица",
+        "автоклав"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-pork-stew",
+      "seller_id": "radeco",
+      "name": "Тушёнка свиная кусковая",
+      "category": "pantry",
+      "description": "Свиная тушёнка куском, автоклав, банка 550 г.",
+      "price": 850,
+      "unit": "банка 550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "тушёнка",
+        "свинина",
+        "автоклав"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-goulash-tomato",
+      "seller_id": "radeco",
+      "name": "Гуляш свиной в томатном соусе",
+      "category": "pantry",
+      "description": "Свиной гуляш в томатном соусе, автоклав, банка 550 г.",
+      "price": 950,
+      "unit": "банка 550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "гуляш",
+        "свинина",
+        "автоклав"
+      ],
+      "source_message_url": "https://t.me/rus_nis/177630",
+      "updated_at": "2026-08-06"
+    },
+    {
+      "id": "radeco-goulash-white",
+      "seller_id": "radeco",
+      "name": "Гуляш свиной в белом соусе",
+      "category": "pantry",
+      "description": "Свиной гуляш в белом соусе, автоклав, банка 550 г.",
+      "price": 950,
+      "unit": "банка 550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "гуляш",
+        "свинина",
+        "автоклав"
+      ],
+      "source_message_url": "https://t.me/rus_nis/177630",
+      "updated_at": "2026-08-06"
+    },
+    {
+      "id": "radeco-pickles",
+      "seller_id": "radeco",
+      "name": "Огурцы маринованные",
+      "category": "preserves",
+      "description": "Домашние маринованные огурцы, литровая банка.",
+      "price": 650,
+      "unit": "1 л",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "огурцы",
+        "маринованные",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-zucchini-caviar",
+      "seller_id": "radeco",
+      "name": "Икра кабачковая",
+      "category": "preserves",
+      "description": "Домашняя кабачковая икра, банка 350 г.",
+      "price": 500,
+      "unit": "350 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "икра",
+        "кабачок",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-sriracha",
+      "seller_id": "radeco",
+      "name": "Соус «Шрирача»",
+      "category": "preserves",
+      "description": "Домашний острый соус, аналог шрирачи, банка 100 г.",
+      "price": 250,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "соус",
+        "острый",
+        "шрирача"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-zucchini-curry",
+      "seller_id": "radeco",
+      "name": "Кабачки маринованные с карри",
+      "category": "preserves",
+      "description": "Маринованные кабачки с карри, банка 720 г.",
+      "price": 500,
+      "unit": "720 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "кабачки",
+        "карри",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-hrenoder",
+      "seller_id": "radeco",
+      "name": "Хренодёр",
+      "category": "preserves",
+      "description": "Домашний хренодёр из помидоров и хрена, 350 г.",
+      "price": 600,
+      "unit": "350 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "хренодёр",
+        "соус",
+        "помидоры"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-mustard",
+      "seller_id": "radeco",
+      "name": "Горчица домашняя",
+      "category": "preserves",
+      "description": "Домашняя горчица, баночка 100 г.",
+      "price": 200,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "горчица",
+        "соус"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-eggplant",
+      "seller_id": "radeco",
+      "name": "Баклажан «Вечерний Душанбе»",
+      "category": "preserves",
+      "description": "Домашняя заготовка из баклажанов, банка 550 г.",
+      "price": 500,
+      "unit": "550 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "баклажан",
+        "заготовки",
+        "овощи"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-chak-chak",
+      "seller_id": "radeco",
+      "name": "Чак-чак",
+      "category": "bakery",
+      "description": "Домашний чак-чак, 500 г.",
+      "price": 800,
+      "unit": "500 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "чак-чак",
+        "сладости",
+        "тесто"
+      ],
+      "source_message_url": "https://t.me/rus_nis/182966",
+      "updated_at": "2026-09-23"
+    },
+    {
+      "id": "radeco-honey",
+      "seller_id": "radeco",
+      "name": "Мёд с Divljana",
+      "category": "honey",
+      "description": "Натуральный мёд из района Divljana, 45 км от Ниша. Цветочный (bagrem) и луговой (livada) — 1200 RSD, луговой лесной — 1300 RSD.",
+      "price": 1200,
+      "unit": "банка",
+      "price_note": "луговой лесной — 1300 RSD",
+      "price_unknown": false,
+      "tags": [
+        "мёд",
+        "bagrem",
+        "livada",
+        "цветочный"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189647",
+      "updated_at": "2026-11-12"
+    },
+    {
+      "id": "gsm-mashed-potatoes",
+      "seller_id": "gsm-nis",
+      "name": "Пюре картофельное",
+      "category": "ready",
+      "description": "Домашнее картофельное пюре, продаётся на вес.",
+      "price": 80,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "пюре",
+        "картофель",
+        "гарнир"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-baked-potatoes",
+      "seller_id": "gsm-nis",
+      "name": "Печёный картофель",
+      "category": "ready",
+      "description": "Печёный картофель, продаётся на вес.",
+      "price": 90,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "картофель",
+        "печёный",
+        "гарнир"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-spaghetti",
+      "seller_id": "gsm-nis",
+      "name": "Спагетти с сыром",
+      "category": "ready",
+      "description": "Спагетти Barilla с сыром, готовят при заказе. Ожидание около 15 минут.",
+      "price": 80,
+      "unit": "123 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "спагетти",
+        "паста",
+        "сыр"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-stuffed-peppers",
+      "seller_id": "gsm-nis",
+      "name": "Перцы фаршированные",
+      "category": "ready",
+      "description": "Перцы с начинкой из говядины и свинины в томатном соусе. Один перец весит около 188 г.",
+      "price": 150,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "перцы",
+        "фаршированные",
+        "мясо"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-meatballs",
+      "seller_id": "gsm-nis",
+      "name": "Тефтели",
+      "category": "ready",
+      "description": "Домашние тефтели, продаются на вес. Готовят партиями, иногда нужно подождать около часа.",
+      "price": 130,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "тефтели",
+        "мясо",
+        "готовое"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-chicken-schnitzel",
+      "seller_id": "gsm-nis",
+      "name": "Шницель куриный с соусом тартар",
+      "category": "ready",
+      "description": "Куриный шницель с соусом тартар, продаётся на вес.",
+      "price": 140,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "шницель",
+        "курица",
+        "тартар"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-chicken-tomato",
+      "seller_id": "gsm-nis",
+      "name": "Куриное мясо в томатном соусе",
+      "category": "ready",
+      "description": "Курица в томатном соусе, продаётся на вес.",
+      "price": 130,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "курица",
+        "томатный соус",
+        "готовое"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-olivier",
+      "seller_id": "gsm-nis",
+      "name": "Салат оливье",
+      "category": "ready",
+      "description": "Домашний оливье, продаётся на вес.",
+      "price": 125,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "оливье",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-cucumber-tomato-salad",
+      "seller_id": "gsm-nis",
+      "name": "Салат огурцы-помидоры",
+      "category": "ready",
+      "description": "Свежий салат из огурцов и помидоров, продаётся на вес.",
+      "price": 75,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "салат",
+        "огурцы",
+        "помидоры"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178276",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "gsm-cabbage-salad",
+      "seller_id": "gsm-nis",
+      "name": "Капустный салат",
+      "category": "ready",
+      "description": "Свежий капустный салат, продаётся на вес.",
+      "price": null,
+      "unit": "100 г",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "капуста",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178469",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "gsm-golubtsy",
+      "seller_id": "gsm-nis",
+      "name": "Голубцы диетические",
+      "category": "ready",
+      "description": "Голубцы, 20% мяса, остальное овощи и рис. Продаются на вес.",
+      "price": null,
+      "unit": "100 г",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "голубцы",
+        "капуста",
+        "диетическое"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178389",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "gsm-pancakes-meat-cheese",
+      "seller_id": "gsm-nis",
+      "name": "Блинчики с фаршем и сыром",
+      "category": "ready",
+      "description": "Домашние блинчики с фаршем и сыром. Цена за порцию уточняется.",
+      "price": null,
+      "unit": "порция",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "блинчики",
+        "фарш",
+        "сыр"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178389",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "gsm-pancakes-sausage",
+      "seller_id": "gsm-nis",
+      "name": "Блинчики с куриной сосиской и сыром",
+      "category": "ready",
+      "description": "Блинчики с куриной сосиской, сыром и соусом тартар.",
+      "price": null,
+      "unit": "порция",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "блинчики",
+        "сосиска",
+        "сыр"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178389",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "gsm-pancakes-jam",
+      "seller_id": "gsm-nis",
+      "name": "Блинчики с джемом",
+      "category": "bakery",
+      "description": "Блинчики с клубничным или сливовым джемом, либо нутеллой.",
+      "price": null,
+      "unit": "порция",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "блинчики",
+        "джем",
+        "нутелла",
+        "десерт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178389",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "gsm-solyanka",
+      "seller_id": "gsm-nis",
+      "name": "Солянка с копчёностями",
+      "category": "ready",
+      "description": "Суп-солянка с копчёностями, огурцами и картофелем. Продаётся в литровых ёмкостях.",
+      "price": null,
+      "unit": "1 л",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "солянка",
+        "суп",
+        "копчёности"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189077",
+      "updated_at": "2026-11-07"
+    },
+    {
+      "id": "gsm-dumplings",
+      "seller_id": "gsm-nis",
+      "name": "Пельмени замороженные",
+      "category": "dumplings",
+      "description": "Домашние замороженные пельмени, цена за упаковку уточняется.",
+      "price": null,
+      "unit": "упаковка",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "пельмени",
+        "заморозка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189077",
+      "updated_at": "2026-11-07"
+    },
+    {
+      "id": "gsm-vareniki",
+      "seller_id": "gsm-nis",
+      "name": "Вареники с картошкой",
+      "category": "dumplings",
+      "description": "Домашние замороженные вареники с картошкой.",
+      "price": null,
+      "unit": "упаковка",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "вареники",
+        "картошка",
+        "заморозка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189077",
+      "updated_at": "2026-11-07"
+    },
+    {
+      "id": "gsm-vinegret",
+      "seller_id": "gsm-nis",
+      "name": "Винегрет",
+      "category": "ready",
+      "description": "Домашний винегрет, продаётся на вес.",
+      "price": null,
+      "unit": "100 г",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "винегрет",
+        "салат",
+        "свёкла"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189077",
+      "updated_at": "2026-11-07"
+    },
+    {
+      "id": "gsm-german-salad",
+      "seller_id": "gsm-nis",
+      "name": "Немецкий салат",
+      "category": "ready",
+      "description": "Новый салат в меню, состав и цена уточняются у продавца.",
+      "price": null,
+      "unit": "100 г",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "салат",
+        "немецкий"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189077",
+      "updated_at": "2026-11-07"
+    },
+    {
+      "id": "gsm-sandwich",
+      "seller_id": "gsm-nis",
+      "name": "Сэндвич с куриной колбасой и сыром",
+      "category": "ready",
+      "description": "Сэндвич с куриной колбасой pipi и сыром.",
+      "price": 130,
+      "unit": "шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сэндвич",
+        "колбаса",
+        "сыр"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178745",
+      "updated_at": "2026-08-19"
+    },
+    {
+      "id": "gsm-smoked-sausages",
+      "seller_id": "gsm-nis",
+      "name": "Колбаски дымленые",
+      "category": "meat",
+      "description": "Копчёные колбаски, готовят под заказ. Минимальный вес — около 600 г.",
+      "price": 140,
+      "unit": "100 г",
+      "price_note": "минимум ~600 г",
+      "price_unknown": false,
+      "tags": [
+        "колбаски",
+        "копчёные",
+        "мясо"
+      ],
+      "source_message_url": "https://t.me/rus_nis/178745",
+      "updated_at": "2026-08-19"
+    },
+    {
+      "id": "gsm-coffee",
+      "seller_id": "gsm-nis",
+      "name": "Кофе по-домашнему",
+      "category": "ready",
+      "description": "Кофе в турке с молоком и сахаром, 300 мл.",
+      "price": 120,
+      "unit": "300 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "кофе",
+        "напиток"
+      ],
+      "source_message_url": "https://t.me/rus_nis/180857",
+      "updated_at": "2026-09-06"
+    },
+    {
+      "id": "vlada-dumplings",
+      "seller_id": "vlada",
+      "name": "Пельмени свинина-говядина",
+      "category": "dumplings",
+      "description": "Пельмени ручной лепки, начинка из свинины и говядины с луком. Упаковка 500 г.",
+      "price": 450,
+      "unit": "500 г",
+      "price_note": "также индивидуальные заказы на пельмени и вареники",
+      "price_unknown": false,
+      "tags": [
+        "пельмени",
+        "свинина",
+        "говядина",
+        "ручная лепка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190498",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "vlada-vareniki",
+      "seller_id": "vlada",
+      "name": "Вареники на заказ",
+      "category": "dumplings",
+      "description": "Вареники под заказ, начинку обсуждают индивидуально. Цена не указана.",
+      "price": null,
+      "unit": "кг",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "вареники",
+        "на заказ"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190498",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "id": "ksenia-okroshka",
+      "seller_id": "ksenia",
+      "name": "Окрошка домашняя",
+      "category": "ready",
+      "description": "Домашняя окрошка, цена за литр. Готовит по предзаказу.",
+      "price": 550,
+      "unit": "л",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "окрошка",
+        "суп",
+        "лето"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-svekolnik",
+      "seller_id": "ksenia",
+      "name": "Свекольник",
+      "category": "ready",
+      "description": "Освежающий холодный свекольник, цена за литр.",
+      "price": 500,
+      "unit": "л",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "свекольник",
+        "суп",
+        "лето"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-vinegret",
+      "seller_id": "ksenia",
+      "name": "Винегрет «Как у бабушки»",
+      "category": "ready",
+      "description": "Домашний винегрет, цена за килограмм.",
+      "price": 450,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "винегрет",
+        "салат",
+        "свёкла"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-sauerkraut",
+      "seller_id": "ksenia",
+      "name": "Капуста квашеная хрустящая",
+      "category": "preserves",
+      "description": "Домашняя квашеная капуста без уксуса, цена за килограмм.",
+      "price": 400,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "капуста",
+        "квашеная",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-korean-carrot",
+      "seller_id": "ksenia",
+      "name": "Морковь по-корейски",
+      "category": "ready",
+      "description": "Острая корейская морковь, цена за килограмм.",
+      "price": 650,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "морковь",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-ghee",
+      "seller_id": "ksenia",
+      "name": "Масло гхи",
+      "category": "dairy",
+      "description": "Топлёное фермерское масло гхи, 200 г.",
+      "price": 1200,
+      "unit": "200 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "гхи",
+        "масло",
+        "топлёное"
+      ],
+      "source_message_url": "https://t.me/rus_nis/174978",
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ksenia-barrel-cucumbers",
+      "seller_id": "ksenia",
+      "name": "Огурцы бочковые",
+      "category": "preserves",
+      "description": "Маленькие бочковые огурцы, порция 500 г.",
+      "price": 600,
+      "unit": "500 г",
+      "price_note": "последняя известная цена — декабрь 2025",
+      "price_unknown": false,
+      "tags": [
+        "огурцы",
+        "бочковые",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164572",
+      "updated_at": "2025-12-24"
+    },
+    {
+      "id": "ksenia-pickled-tomatoes",
+      "seller_id": "ksenia",
+      "name": "Помидоры квашеные",
+      "category": "preserves",
+      "description": "Квашеные помидоры, порция 500 г.",
+      "price": 550,
+      "unit": "500 г",
+      "price_note": "последняя известная цена — декабрь 2025",
+      "price_unknown": false,
+      "tags": [
+        "помидоры",
+        "квашеные",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164572",
+      "updated_at": "2025-12-24"
+    },
+    {
+      "id": "elena-strawberry-jam",
+      "seller_id": "jelenasezina",
+      "name": "Варенье земляничное",
+      "category": "honey",
+      "description": "Домашнее земляничное варенье, банка 370 мл.",
+      "price": 600,
+      "unit": "370 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "варенье",
+        "земляника",
+        "клубника"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-blackcurrant-jam",
+      "seller_id": "jelenasezina",
+      "name": "Варенье чёрная смородина «пятиминутка»",
+      "category": "honey",
+      "description": "Домашнее варенье из чёрной смородины, банка 580 мл.",
+      "price": 600,
+      "unit": "580 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "варенье",
+        "смородина",
+        "пятиминутка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-zucchini-jam",
+      "seller_id": "jelenasezina",
+      "name": "Варенье кабачковое с лимоном и мятой",
+      "category": "honey",
+      "description": "Домашнее варенье из кабачков с лимоном и мятой, банка 400 мл.",
+      "price": 400,
+      "unit": "400 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "варенье",
+        "кабачок",
+        "лимон",
+        "мята"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-maslyata",
+      "seller_id": "jelenasezina",
+      "name": "Маслята маринованные",
+      "category": "preserves",
+      "description": "Маринованные маслята. Банка 720 мл — 700 RSD, 370 мл — 400 RSD.",
+      "price": 700,
+      "unit": "720 мл",
+      "price_note": "370 мл — 400 RSD",
+      "price_unknown": false,
+      "tags": [
+        "грибы",
+        "маслята",
+        "маринованные"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-porcini",
+      "seller_id": "jelenasezina",
+      "name": "Грибы белые маринованные",
+      "category": "preserves",
+      "description": "Маринованные белые грибы. 720 мл — 1000 RSD, 500 мл — 600 RSD, 370 мл — 500 RSD.",
+      "price": 1000,
+      "unit": "720 мл",
+      "price_note": "500 мл — 600 RSD, 370 мл — 500 RSD",
+      "price_unknown": false,
+      "tags": [
+        "грибы",
+        "белые",
+        "маринованные"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-mushroom-caviar",
+      "seller_id": "jelenasezina",
+      "name": "Икра грибная",
+      "category": "preserves",
+      "description": "Домашняя грибная икра, банка 580 мл.",
+      "price": 700,
+      "unit": "580 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "икра",
+        "грибы",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-dried-porcini",
+      "seller_id": "jelenasezina",
+      "name": "Грибы белые сухие",
+      "category": "preserves",
+      "description": "Сушёные белые грибы, 100 г.",
+      "price": 400,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "грибы",
+        "сушёные",
+        "белые"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-flower-syrup",
+      "seller_id": "jelenasezina",
+      "name": "Сироп цветочный (фиалка и акация)",
+      "category": "preserves",
+      "description": "Домашний цветочный сироп, 250 мл.",
+      "price": 300,
+      "unit": "250 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сироп",
+        "фиалка",
+        "акация"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-zucchini-marinated",
+      "seller_id": "jelenasezina",
+      "name": "Цукини молодые в маринаде",
+      "category": "preserves",
+      "description": "Молодые цукини в маринаде, банка 720 мл.",
+      "price": 400,
+      "unit": "720 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "цукини",
+        "кабачки",
+        "маринад"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-pancakes",
+      "seller_id": "jelenasezina",
+      "name": "Блины тонкие",
+      "category": "bakery",
+      "description": "Тонкие домашние блины, 10 шт.",
+      "price": 500,
+      "unit": "10 шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "блины",
+        "выпечка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167238",
+      "updated_at": "2026-02-19"
+    },
+    {
+      "id": "elena-stuffed-pancakes",
+      "seller_id": "jelenasezina",
+      "name": "Блины с грибами, картошкой и луком",
+      "category": "bakery",
+      "description": "Тонкие блины с начинкой из лесных грибов, картошки и лука, 6 шт.",
+      "price": 800,
+      "unit": "6 шт",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "блины",
+        "грибы",
+        "картошка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167238",
+      "updated_at": "2026-02-19"
+    },
+    {
+      "id": "elena-lecho",
+      "seller_id": "jelenasezina",
+      "name": "Лечо",
+      "category": "preserves",
+      "description": "Домашнее лечо из перца и томатов, банка 720 мл.",
+      "price": 500,
+      "unit": "720 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "лечо",
+        "перец",
+        "томаты"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-ajvar",
+      "seller_id": "jelenasezina",
+      "name": "Айвар",
+      "category": "preserves",
+      "description": "Айвар из печёного перца, без консервантов и сахара, банка 720 мл.",
+      "price": 900,
+      "unit": "720 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "айвар",
+        "перец",
+        "заготовки"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-zucchini-caviar",
+      "seller_id": "jelenasezina",
+      "name": "Икра кабачковая",
+      "category": "preserves",
+      "description": "Домашняя кабачковая икра, банка 720 мл.",
+      "price": 600,
+      "unit": "720 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "икра",
+        "кабачок"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-grilled-pepper",
+      "seller_id": "jelenasezina",
+      "name": "Паприка-гриль в маринаде",
+      "category": "preserves",
+      "description": "Печёный перец в пряном маринаде, банка 720 мл.",
+      "price": 500,
+      "unit": "720 мл",
+      "price_note": "580 мл — 400 RSD",
+      "price_unknown": false,
+      "tags": [
+        "перец",
+        "гриль",
+        "маринад"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-korean-vegetables",
+      "seller_id": "jelenasezina",
+      "name": "Овощи по-корейски",
+      "category": "ready",
+      "description": "Ассорти овощей по-корейски, банка 720 мл.",
+      "price": 500,
+      "unit": "720 мл",
+      "price_note": "580 мл — 400 RSD",
+      "price_unknown": false,
+      "tags": [
+        "овощи",
+        "корейская",
+        "салат"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-blackcurrant",
+      "seller_id": "jelenasezina",
+      "name": "Смородина чёрная",
+      "category": "preserves",
+      "description": "Чёрная смородина, цена за килограмм.",
+      "price": 700,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "смородина",
+        "ягоды"
+      ],
+      "source_message_url": "https://t.me/rus_nis/175654",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "elena-frozen-strawberry",
+      "seller_id": "jelenasezina",
+      "name": "Земляника замороженная",
+      "category": "preserves",
+      "description": "Замороженная земляника, 500 г.",
+      "price": 1000,
+      "unit": "500 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "земляника",
+        "клубника",
+        "заморозка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-tea-blackcurrant",
+      "seller_id": "jelenasezina",
+      "name": "Фиточай «Чёрная смородина»",
+      "category": "tea",
+      "description": "Ферментированные листья, плоды и почки смородины, 100 г.",
+      "price": 500,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "чай",
+        "смородина",
+        "травяной"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "elena-tea-strawberry",
+      "seller_id": "jelenasezina",
+      "name": "Фиточай «Земляничный»",
+      "category": "tea",
+      "description": "Ферментированные листья земляники и сушёные ягоды, 100 г.",
+      "price": 500,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "чай",
+        "земляника",
+        "травяной"
+      ],
+      "source_message_url": "https://t.me/rus_nis/164724",
+      "updated_at": "2025-12-25"
+    },
+    {
+      "id": "olga-sauerkraut",
+      "seller_id": "olga",
+      "name": "Капуста квашеная",
+      "category": "preserves",
+      "description": "Домашняя квашеная капуста, цена за килограмм.",
+      "price": 700,
+      "unit": "кг",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "капуста",
+        "квашеная"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167237",
+      "updated_at": "2026-02-19"
+    },
+    {
+      "id": "olga-napoleon",
+      "seller_id": "olga",
+      "name": "Торт «Наполеон»",
+      "category": "bakery",
+      "description": "Домашний торт «Наполеон», цена за килограмм. Можно купить куском 300 г за 690 RSD.",
+      "price": 2300,
+      "unit": "кг",
+      "price_note": "кусок 300 г — 690 RSD",
+      "price_unknown": false,
+      "tags": [
+        "наполеон",
+        "торт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/170085",
+      "updated_at": "2026-04-19"
+    },
+    {
+      "id": "olga-red-velvet",
+      "seller_id": "olga",
+      "name": "Торт «Красный бархат»",
+      "category": "bakery",
+      "description": "Бисквитный торт с творожно-сливочным кремом, вес около 600 г.",
+      "price": 1500,
+      "unit": "торт ~600 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "красный бархат",
+        "торт"
+      ],
+      "source_message_url": "https://t.me/rus_nis/171421",
+      "updated_at": "2026-05-08"
+    },
+    {
+      "id": "andrey-tvorog",
+      "seller_id": "andrey-sv98",
+      "name": "Творог домашний",
+      "category": "dairy",
+      "description": "Нежный домашний творог из традиционного рецепта, порция 500 г. Доставка по Нишу.",
+      "price": 625,
+      "unit": "500 г",
+      "price_note": "при заказе от 1000 RSD доставка по городу — 300 RSD",
+      "price_unknown": false,
+      "tags": [
+        "творог",
+        "домашний",
+        "сырники"
+      ],
+      "source_message_url": "https://t.me/rus_nis/190007",
+      "updated_at": "2026-11-17"
+    },
+    {
+      "id": "andrey-tvorog-low-fat",
+      "seller_id": "andrey-sv98",
+      "name": "Творог обезжиренный",
+      "category": "dairy",
+      "description": "Домашний творог с низким содержанием жира, для спортивного питания. Цена пока не объявлена.",
+      "price": null,
+      "unit": "500 г",
+      "price_note": "цену уточняйте у продавца",
+      "price_unknown": true,
+      "tags": [
+        "творог",
+        "обезжиренный",
+        "белок"
+      ],
+      "source_message_url": "https://t.me/rus_nis/189179",
+      "updated_at": "2026-11-09"
+    },
+    {
+      "id": "vobla-dried-fish",
+      "seller_id": "vobla",
+      "name": "Вяленая и вяленокопчёная рыба",
+      "category": "fish",
+      "description": "Плотва, красноперка, густера, подлещик, рыбец, жерех, усач. Солят и вялят сами, отправляют по Сербии.",
+      "price": 2500,
+      "unit": "кг",
+      "price_note": "доставка курьером за счёт продавца",
+      "price_unknown": false,
+      "tags": [
+        "рыба",
+        "вяленая",
+        "копчёная",
+        "доставка"
+      ],
+      "source_message_url": "https://t.me/rus_nis/172168",
+      "updated_at": "2026-05-17"
+    },
+    {
+      "id": "vobla-carp-caviar",
+      "seller_id": "vobla",
+      "name": "Вяленая икра сазана",
+      "category": "fish",
+      "description": "Вяленая икра сазана в стиках, 100 г.",
+      "price": 750,
+      "unit": "100 г",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "икра",
+        "сазан",
+        "рыба"
+      ],
+      "source_message_url": "https://t.me/rus_nis/172168",
+      "updated_at": "2026-05-17"
+    },
+    {
+      "id": "nikolai-fig-jam",
+      "seller_id": "nikolai",
+      "name": "Варенье из инжира",
+      "category": "honey",
+      "description": "Домашнее инжирное варенье, банка 670 мл, вес варенья 800–820 г, сахара 32–35%.",
+      "price": 1000,
+      "unit": "банка 670 мл",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "варенье",
+        "инжир"
+      ],
+      "source_message_url": "https://t.me/rus_nis/180839",
+      "updated_at": "2026-09-06"
+    },
+    {
+      "id": "maltseva-condensed-milk",
+      "seller_id": "maltseva",
+      "name": "Сгущённое молоко домашнее",
+      "category": "dairy",
+      "description": "Сгущёнка из цельного коровьего молока, густая и натуральная. Бутылка 0,5 л.",
+      "price": 480,
+      "unit": "0,5 л",
+      "price_note": null,
+      "price_unknown": false,
+      "tags": [
+        "сгущёнка",
+        "молоко",
+        "сладости"
+      ],
+      "source_message_url": "https://t.me/rus_nis/169532",
+      "updated_at": "2026-04-09"
+    },
+    {
+      "id": "e-dumplings-classic",
+      "seller_id": "e-pelmeni",
+      "name": "Пельмени классические",
+      "category": "dumplings",
+      "description": "Домашние пельмени классические, минимальный заказ 2 кг.",
+      "price": 1050,
+      "unit": "кг",
+      "price_note": "минимум 2 кг",
+      "price_unknown": false,
+      "tags": [
+        "пельмени",
+        "классические",
+        "домашние"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167289",
+      "updated_at": "2026-02-20"
+    },
+    {
+      "id": "e-dumplings-chicken",
+      "seller_id": "e-pelmeni",
+      "name": "Пельмени свинина-курица",
+      "category": "dumplings",
+      "description": "Домашние пельмени из свинины и курицы, минимальный заказ 2 кг.",
+      "price": 950,
+      "unit": "кг",
+      "price_note": "минимум 2 кг",
+      "price_unknown": false,
+      "tags": [
+        "пельмени",
+        "свинина",
+        "курица"
+      ],
+      "source_message_url": "https://t.me/rus_nis/167289",
+      "updated_at": "2026-02-20"
+    },
+    {
+      "id": "e-oreshki",
+      "seller_id": "e-pelmeni",
+      "name": "Орешки со сгущёнкой",
+      "category": "bakery",
+      "description": "Домашние орешки с начинкой из сгущёнки. Коробка 12 шт — 700 RSD, 20 шт — 1150 RSD.",
+      "price": 700,
+      "unit": "12 шт",
+      "price_note": "20 шт — 1150 RSD, 24 шт — 1400 RSD",
+      "price_unknown": false,
+      "tags": [
+        "орешки",
+        "сгущёнка",
+        "сладости"
+      ],
+      "source_message_url": "https://t.me/rus_nis/169186",
+      "updated_at": "2026-04-04"
+    }
+  ]
+}
